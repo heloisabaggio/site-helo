@@ -7,7 +7,7 @@ header {
     width: 100%;
 }
 
-ul {
+.nav-lista {
     display: flex;
     list-style: none;
     color: black;
@@ -17,4 +17,10 @@ ul {
     align-items: center;
     gap: 28px;
 
+}
+
+.nav-item.nav-item:houver {
+     cursor: pointer;
+     background-color: magenta;
+     color: white;
 }

@@ -20,7 +20,7 @@ header {
 
 }
 
-.nav-item.nav-item:houver {
+.nav-item:houver {
      cursor: pointer;
      background-color: magenta;
      color: white;
